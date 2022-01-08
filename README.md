@@ -1,5 +1,5 @@
 # Proposal: Signatures Verification
-![name-of-you-image](https://github.com/rymyf/NLP_Classification_T5/blob/main/pics/words.png?raw=true)
+![name-of-you-image](https://github.com/ShathaAlghamdi/signatures-Verification-T5/blob/main/Pics/docusign-workflow.jpg)
 
 ## Problem Statement
 The objective is to develop the handwritten verification system using latest advancement in deep learning. Input parameter to this system is pair of two signature in portable network graphics images (PNG) format and outputs the Boolean value (1 or 0).
