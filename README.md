@@ -68,5 +68,5 @@ Facilitating the process of identifying the real signature and the forge makes i
 
 [@Munira Alzahrani](https://github.com/MuniraAlzhrani)
 <p align=”right”>
-<img src="Pics/logo.gif" alt="My Project GIF" width="200" height="200">
+<img src="Pics/WhatsApp Video 2022-01-08 at 4.38.41 PM.mp4" alt="My Project GIF" width="200" height="200">
 </p>
