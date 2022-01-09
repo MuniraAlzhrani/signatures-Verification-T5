@@ -9,7 +9,7 @@ The objective is to develop the handwritten verification system using latest adv
 * [Algorithms](#algorithms)
 * [Tools](#tools)
 * [Source](#source)
-* [Goals](#mvp-goals)
+* [Goal](#goal)
 * [Authors](#authors)
 
 ## Data Description
@@ -30,16 +30,14 @@ NFI-00602023 is an image of signature of person number 023 done by person 006. T
 - Libraries: 
 
 ![Pandas](https://img.shields.io/badge/pandas-330F63??style=flat&logo=pandas&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-%2006600.svg??style=flat&color=blue)
+![openCV](https://img.shields.io/badge/openCV-%23F7931E.svg??style=flat&logo=openCV&logoColor=black&color=9cf)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg??style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg??style=flat&logo=scikit-learn&logoColor=white)
-![nltk](https://img.shields.io/badge/nltk-%2006600.svg??style=flat&color=red)
-![RE](https://img.shields.io/badge/RE-%233F4F75.svg??style=flat&color=green)
+![keras](https://img.shields.io/badge/keras-%23000.svg??style=flat&logo=keras&logoColor=white&color=red)
+![tensorflow](https://img.shields.io/badge/tensorflow-%23000.svg??style=flat&logo=tensorflow&logoColor=white&color=green)
+![seaborn](https://img.shields.io/badge/seaborn-%2006600.svg??style=flat&color=blue)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg??style=flat&logo=plotly&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg??style=flat&color=9cf)
-![Gensim](https://img.shields.io/badge/Gensim-%233F4F75.svg??style=flat&color=yellow)
-![pyLDA](https://img.shields.io/badge/pyLDA-%233F4F75.svg??style=flat&color=green)
-![Flask](https://img.shields.io/badge/flask-%23000.svg??style=flat&logo=flask&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg??style=flat&&logo=matplotlib&color=yellow)
 
 
 - Softwares: 
@@ -53,7 +51,7 @@ NFI-00602023 is an image of signature of person number 023 done by person 006. T
 ![Postman](https://img.shields.io/badge/Postman-330F63??style=flat&logo=Postman&logoColor=white)
 
 ## Source
-From kaggle [here](https://www.kaggle.com/divyanshrai/handwritten-signatures/code)
+From kaggle [here](https://www.kaggle.com/eryash15/re-arranged-data)
 
 ## Goal
 Facilitating the process of identifying the real signature and the forge makes it easier for the companies and big facilities.
@@ -67,6 +65,7 @@ Facilitating the process of identifying the real signature and the forge makes i
 [@ShathaAlghamdi](https://github.com/ShathaAlghamdi)
 
 [@Munira Alzahrani](https://github.com/MuniraAlzhrani)
+
 <p align=”right”>
-<img src="Pics/logogif.gif" alt="My Project GIF" width="200" height="200">
+<img src="Pics/logogif.gif" alt="My Project GIF" width="300" height="300">
 </p>
